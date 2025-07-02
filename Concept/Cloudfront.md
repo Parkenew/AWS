@@ -4,7 +4,7 @@
 
 **CloudFront**는 AWS에서 제공하는 **CDN (Content Delivery Network)** 서비스입니다.
 
-- 전 세계에 분산된 **Edge Location(캐시 서버)**을 통해 콘텐츠를 빠르게 제공
+- 전 세계에 분산된 **Edge Location(캐시 서버)** 을 통해 콘텐츠를 빠르게 제공
 - **정적 콘텐츠**(이미지, HTML, JS, CSS 등)를 캐싱하여 성능 향상
 - **S3, EC2, ELB**, 외부 서버 등 다양한 소스를 **Origin Server**로 설정 가능
 - SSL, 인증, 접속 차단 등 **보안 기능 제공**
